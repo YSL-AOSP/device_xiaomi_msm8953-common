@@ -313,7 +313,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     init.qcom.sh \
-    init.qcom.post_boot.sh
+    init.qcom.post_boot.sh \
+    init.qcom.early_boot.sh
 
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
