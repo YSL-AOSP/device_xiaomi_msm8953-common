@@ -11,6 +11,8 @@ LOCAL_OVERRIDES_PACKAGES := \
 	AiWallpapers \
 	AndroidAutoStubPrebuilt \
 	Camera2 \
+        DevicePersonalizationPrebuiltPixel2020 \
+        Flash \
 	GoogleTTS \
 	Maps \
 	Photos \
