@@ -6,3 +6,5 @@ dontaudit {
   bt_firmware_file
   firmware_file
 }:filesystem getattr;
+
+dontaudit untrusted_app ashmem_device:chr_file open;
