@@ -14,6 +14,8 @@ LOCAL_OVERRIDES_PACKAGES := \
         DevicePersonalizationPrebuiltPixel2020 \
         Flash \
 	GoogleTTS \
+	Gallery2 \
+	Jellyfish \
 	Maps \
 	Photos \
 	PixelThemesStub \
