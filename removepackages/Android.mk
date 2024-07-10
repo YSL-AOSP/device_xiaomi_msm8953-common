@@ -5,6 +5,7 @@ LOCAL_MODULE := removepackages
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
+	AudioFX \
 	Aperture \
 	arcore \
 	AICorePrebuilt \
@@ -16,6 +17,7 @@ LOCAL_OVERRIDES_PACKAGES := \
 	GoogleTTS \
 	Gallery2 \
 	Jellyfish \
+	Jelly \
 	Maps \
 	Photos \
 	PixelThemesStub \
