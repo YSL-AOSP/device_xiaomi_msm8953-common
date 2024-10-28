@@ -146,6 +146,7 @@ ENABLE_VENDOR_RIL_SERVICE := true
 
 # SELinux
 include device/qcom/sepolicy-legacy-um/SEPolicy.mk
+include device/miku/sepolicy/qcom/sepolicy.mk
 BOARD_VENDOR_SEPOLICY_DIRS += $(COMMON_PATH)/sepolicy/vendor
 PRODUCT_PRIVATE_SEPOLICY_DIRS += $(COMMON_PATH)/sepolicy/private
 
